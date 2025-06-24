@@ -6,7 +6,7 @@ Chemical Engineering undergradudate course, Process Controls Lab (CME-453L)
 The experimental setup consisted of diluted Sulferic Acid (H2SO4) and
 Sodium Hydroxide (NaOH) pumped from container vats by diaphragm pumps
 into an agitated round-bottom flask with an overflow outlet, and a pH meter.
-See "pictures" for more on setup, and screenshots of script functioning. 
+See "visuals" for experimental setup visual. 
 
 ## Usage 
 
@@ -21,7 +21,7 @@ See "pictures" for more on setup, and screenshots of script functioning.
     the vial is built into main.py. This may need to be edited based on the csv file, 
     as the minimize function can be finicky.  
 
-5. Graphical output of predicted vs actual pH, [H+], [OH-], etc.
+5. Graphical output of predicted vs actual pH, [H+], [OH-], etc. Example output in "visuals"
 
 ## Requirements
 
